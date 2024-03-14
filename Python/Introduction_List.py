@@ -33,3 +33,4 @@ print(List1)
 List1.remove(True)
 print(List1)
 
+print("Burda Kaldım")
