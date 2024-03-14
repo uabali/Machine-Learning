@@ -1,6 +1,6 @@
 # List -> Array(like c prog. Lang.)
 
-List1 = ['Boz Gandalf', 2, True]
+List1 = ['Boz Gandalf', 2, False]
 for i in List1:
     print(i)
 
